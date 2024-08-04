@@ -1,0 +1,51 @@
+o background.png
+o easyLeft.png
+n easyLeftFallen*.png 6
+o easyRight.png
+n easyRightFallen*.png 6
+o helmLeft.png
+o helmRight.png
+n knightLeft*.png 2
+n knightRight*.png 2
+o clownLeft.png
+o clownRight.png
+o wave1.png
+o wood1.png
+o woodUpper.png
+o gunCenter1.png
+n gunLeftA*.png 5
+n gunRightA*.png 5
+o gunCenter2.png
+n gunLeftB*.png 5
+n gunRightB*.png 5
+o gunCenter3.png
+n gunLeftC*.png 5
+n gunRightC*.png 5
+o bullsEye.png
+o ap.png
+o ball.png
+o ice.png
+o stick.png
+o stick5.png
+o displayAP.png
+o displayBall.png
+o displayIce.png
+o zero.png
+o one.png
+o two.png
+o three.png
+o four.png
+o five.png
+o six.png
+o seven.png
+o eight.png
+o nine.png
+o bestScoreBoard0.png 
+n bestScoreBoard*.png 3
+o paused.png
+o gameProgress.png
+n levelNumber*.png 9
+o levelNumberZero.png
+o icy.png
+o waveIced.png
+o redLine.png

@@ -1,0 +1,8 @@
+o loading.png
+o loadingDuck1.png
+o loadingDuck2.png
+o loadingDuck3.png
+o loadingDuck4.png
+o loadingDuck5.png
+o loadingDuck6.png
+o loadingDuck7.png

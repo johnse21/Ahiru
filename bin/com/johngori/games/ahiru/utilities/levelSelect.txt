@@ -1,0 +1,16 @@
+o levelselectbg.png
+o lvl1.png
+o lvl2.png
+o lvl3.png
+o lvl4.png
+o lvl5.png
+o lvl6.png
+o lvl7.png
+o lvl8.png
+o lvl9.png
+o lvl10.png
+o lvl11.png
+o lvl12.png
+o star.png
+o emptyStar.png
+n inst*.png 6
